@@ -1,0 +1,21 @@
+Jane Doe
+jane.doe@email.com | (555) 123-4567
+
+Summary
+Software engineer with 4 years of experience building web applications.
+
+Experience
+Backend Engineer, Acme Corp (2022-Present)
+- Built REST APIs in Python and Node.js used by over 50,000 daily users.
+- Reduced API response time by 35% by optimizing SQL queries and adding Redis caching.
+- Collaborated with a cross-functional team using Agile/Scrum to ship features biweekly.
+
+Software Engineer, Startup Inc (2020-2022)
+- Developed frontend features in JavaScript and React for a customer dashboard.
+- Wrote unit tests and used Git for version control across the team.
+
+Education
+B.S. in Computer Science, State University (2016-2020)
+
+Skills
+Python, JavaScript, SQL, Git, Docker, Communication, Teamwork

@@ -1,0 +1,16 @@
+Backend Engineer
+
+We are looking for a Backend Engineer to join our growing team.
+
+Requirements:
+- Strong experience with Python and SQL.
+- Experience building REST APIs and working with Docker containers.
+- Familiarity with AWS and Kubernetes is a plus.
+- Experience with React or other frontend frameworks is a bonus.
+- Comfortable working in an Agile/Scrum environment.
+- Strong communication and teamwork skills.
+- Experience with Git for version control.
+
+Nice to have:
+- Exposure to machine learning or data analysis.
+- Leadership experience mentoring junior engineers.
